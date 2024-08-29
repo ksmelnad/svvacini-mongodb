@@ -1,0 +1,1561 @@
+{
+  "id": "65b2e88a6c44e0bfe0b17f1d",
+  "bookId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS",
+  "title": "तर्कसङ्ग्रहः",
+  "author": "अन्नम्भट्टः",
+  "chapters": [
+    {
+      "id": "65bab4f305dab4e43901f1a0",
+      "title": "उद्देशप्रकरणम्",
+      "order": 1,
+      "chapterId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_1",
+      "bookId": "65b2e88a6c44e0bfe0b17f1d",
+      "paragraphs": [
+        {
+          "line": {
+            "begin": "0.000",
+            "end": "11.208",
+            "text": "निधाय हृदि विश्वेशं विधाय गुरुवन्दनम्। बालानां सुखबोधाय क्रियते तर्कसङ्ग्रहः॥"
+          },
+          "id": "65bacb35e4badd2b05652831",
+          "title": null,
+          "order": 1,
+          "chapterId": "65bab4f305dab4e43901f1a0",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "11.208",
+            "end": "20.902",
+            "text": "द्रव्यगुणकर्मसामान्यविशेषसमवायाऽभावाः सप्त पदार्थाः॥ १॥"
+          },
+          "id": "65bacb34e4badd2b056527da",
+          "title": null,
+          "order": 2,
+          "chapterId": "65bab4f305dab4e43901f1a0",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "20.902",
+            "end": "30.949",
+            "text": "तत्र द्रव्याणि, पृथिव्यप्तेजोवाय्वाकाशकालदिगात्ममनांसि नवैव॥ २॥"
+          },
+          "id": "65bacb35e4badd2b05652815",
+          "title": null,
+          "order": 3,
+          "chapterId": "65bab4f305dab4e43901f1a0",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "30.949",
+            "end": "52.502",
+            "text": "रूपरसगन्धस्पर्शसङ्ख्यापरिमाणपृथक्त्वसंयोगविभागपरत्वाऽपरत्वगुरुत्वद्रवत्वस्नेहशब्दबुद्धिसुखदुःखेच्छाद्वेषप्रयत्नधर्माधर्मसंस्काराः चतुर्विंशतिगुणाः॥ ३॥"
+          },
+          "id": "65bacb35e4badd2b056527ec",
+          "title": null,
+          "order": 4,
+          "chapterId": "65bab4f305dab4e43901f1a0",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "52.502",
+            "end": "60.405",
+            "text": "उत्क्षेपणापक्षेपणाकुञ्चनप्रसारणगमनानि पञ्च कर्माणि॥ ४॥"
+          },
+          "id": "65bacb35e4badd2b05652821",
+          "title": null,
+          "order": 5,
+          "chapterId": "65bab4f305dab4e43901f1a0",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "60.405",
+            "end": "66.037",
+            "text": "परमपरं चेति द्विविधं सामान्यम्॥ ५॥"
+          },
+          "id": "65bacb34e4badd2b056527cd",
+          "title": null,
+          "order": 6,
+          "chapterId": "65bab4f305dab4e43901f1a0",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "66.037",
+            "end": "72.655",
+            "text": "नित्यद्रव्यवृत्तयो विशेषास्त्वनन्ता एव॥ ६॥"
+          },
+          "id": "65bacb34e4badd2b056527de",
+          "title": null,
+          "order": 7,
+          "chapterId": "65bab4f305dab4e43901f1a0",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "72.655",
+            "end": "76.517",
+            "text": "समवायस्त्वेक एव॥ ७॥"
+          },
+          "id": "65bacb35e4badd2b0565282f",
+          "title": null,
+          "order": 8,
+          "chapterId": "65bab4f305dab4e43901f1a0",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "76.517",
+            "end": "87.600",
+            "text": "अभावश्चतुर्विधः- प्रागभावः, प्रध्वंसाभावः, अत्यन्ताभावः, अन्योन्याभावश्चेति॥ ८॥"
+          },
+          "id": "65bacb35e4badd2b05652800",
+          "title": null,
+          "order": 9,
+          "chapterId": "65bab4f305dab4e43901f1a0",
+          "sectionId": null,
+          "subsectionId": null
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "65bab4f205dab4e43901f19d",
+      "title": "द्रव्यलक्षणप्रकरणम्",
+      "order": 2,
+      "chapterId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_2",
+      "bookId": "65b2e88a6c44e0bfe0b17f1d",
+      "paragraphs": [
+        {
+          "line": {
+            "begin": "0.000",
+            "end": "34.001",
+            "text": "तत्र गन्धवती पृथिवी। सा द्विविधा, नित्याऽनित्या च। नित्या परमाणुरूपा। अनित्या कार्यरूपा। पुनस्त्रिविधा शरीरेन्द्रियविषयभेदात्। शरीरमस्मदादीनाम्। इन्द्रियं गन्धग्राहकं घ्राणम्। तच्च नासाग्रवर्ति। विषयो मृत्पाषाणादिः॥ १॥"
+          },
+          "id": "65bacb35e4badd2b05652801",
+          "title": null,
+          "order": 10,
+          "chapterId": "65bab4f205dab4e43901f19d",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "34.001",
+            "end": "64.594",
+            "text": "शीतस्पर्शवत्यः आपः। ता द्विविधाः, नित्या अनित्याश्च। नित्याः परमाणुरूपाः। अनित्याः कार्यरूपाः। पुनस्त्रिविधाः शरीरेन्द्रियविषयभेदात्। शरीरं वरुणलोके। इन्द्रियं रसग्राहकं रसनं जिह्वाग्रवर्ति। विषयः सरित्समुद्रादिः॥ २॥"
+          },
+          "id": "65bacb35e4badd2b05652830",
+          "title": null,
+          "order": 11,
+          "chapterId": "65bab4f205dab4e43901f19d",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "64.594",
+            "end": "113.701",
+            "text": "उष्णस्पर्शवत् तेजः। तच्च द्विविधं, नित्यमनित्यं च। नित्यं परमाणुरूपम्। अनित्यं कार्यरूपम्। पुनः त्रिविधं शरीरेन्द्रियविषयभेदात्। शरीरमादित्यलोके प्रसिद्धम्। इन्द्रियं रूपग्राहकं चक्षुः कृष्णताराग्रवर्ति। विषयः चतुर्विधः, भौम-दिव्य-औदर्य-आकरजभेदात्। भौमं वह्न्यादिकम्। अभिन्धनं दिव्यं विद्युदादि। भुक्तस्य परिणामहेतुरौदर्यम्। आकरजं सुवर्णादि॥ ३॥"
+          },
+          "id": "65bacb35e4badd2b05652822",
+          "title": null,
+          "order": 12,
+          "chapterId": "65bab4f205dab4e43901f19d",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "113.701",
+            "end": "154.011",
+            "text": "रूपरहितः स्पर्शवान् वायुः। स द्विविधः नित्यः अनित्यश्च। नित्यः परमाणुरूपः। अनित्यः कार्यरूपः। पुनः त्रिविधः शरीरेन्द्रियविषयभेदात्। शरीरं वायुलोके। इन्द्रियं स्पर्शग्राहकं त्वक् सर्वशरीरवर्ति। विषयो वृक्षादिकम्पनहेतुः। शरीरान्तः सञ्चारी वायुः प्राणः। स च एकोऽपि उपाधिभेदात् प्राणापानादिसंज्ञां लभते॥ ४॥"
+          },
+          "id": "65bacb35e4badd2b05652808",
+          "title": null,
+          "order": 13,
+          "chapterId": "65bab4f205dab4e43901f19d",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "154.011",
+            "end": "159.683",
+            "text": "शब्दगुणकमाकाशम्। तच्चैकं विभु नित्यञ्च॥ ५॥"
+          },
+          "id": "65bacb35e4badd2b0565280f",
+          "title": null,
+          "order": 14,
+          "chapterId": "65bab4f205dab4e43901f19d",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "159.683",
+            "end": "167.182",
+            "text": "अतीतादिव्यवहारहेतुः कालः। स चैको विभुर्नित्यश्च॥ ६॥"
+          },
+          "id": "65bacb34e4badd2b056527e2",
+          "title": null,
+          "order": 15,
+          "chapterId": "65bab4f205dab4e43901f19d",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "167.182",
+            "end": "175.265",
+            "text": "प्राच्यादिव्यवहारहेतुर्दिक्। सा चैका विभ्वी नित्या च॥ ७॥"
+          },
+          "id": "65bacb35e4badd2b05652812",
+          "title": null,
+          "order": 16,
+          "chapterId": "65bab4f205dab4e43901f19d",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "175.265",
+            "end": "194.90",
+            "text": "ज्ञानाधिकरणमात्मा। स द्विविधः परमात्मा जीवात्मा च। तत्रेश्वरः सर्वज्ञः परमात्मैक एव। जीवात्मा प्रतिशरीरं भिन्नो विभुर्नित्यश्च॥ ८॥"
+          },
+          "id": "65bacb35e4badd2b056527e9",
+          "title": null,
+          "order": 17,
+          "chapterId": "65bab4f205dab4e43901f19d",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "194.90",
+            "end": "205.851",
+            "text": "सुखाद्युपलब्धिसाधनमिन्द्रियं मनः। तच्च प्रत्यात्मनियतत्वादनन्तं परमाणुरूपं नित्यं च॥ ९॥"
+          },
+          "id": "65bacb35e4badd2b05652807",
+          "title": null,
+          "order": 18,
+          "chapterId": "65bab4f205dab4e43901f19d",
+          "sectionId": null,
+          "subsectionId": null
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "65bab4f205dab4e43901f19c",
+      "title": "गुणलक्षणप्रकरणम्",
+      "order": 3,
+      "chapterId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_3",
+      "bookId": "65b2e88a6c44e0bfe0b17f1d",
+      "paragraphs": [
+        {
+          "line": {
+            "begin": "0.000",
+            "end": "27.400",
+            "text": "चक्षुर्मात्रग्राह्यो गुणो रूपम्। तच्च शुक्लनीलपीतरक्तहरितकपिशचित्रभेदात्सप्तविधम्। पृथिवीजलतेजोवृत्ति। तत्र पृथिव्यां सप्तविधम्। अभास्वरशुक्लं जले। भास्वरशुक्लं तेजसि॥ १॥"
+          },
+          "id": "65bacb35e4badd2b0565280d",
+          "title": null,
+          "order": 19,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "27.400",
+            "end": "45.160",
+            "text": "रसनग्राह्यो गुणो रसः। स च मधुराम्ललवणकटुकशायतिक्तभेदात् षड्विधः। पृथिवीजलवृत्तिः। तत्र पृथिव्यां षड्विधः। जले मधुर एव॥ २॥"
+          },
+          "id": "65bacb35e4badd2b0565282e",
+          "title": null,
+          "order": 20,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "45.160",
+            "end": "55.080",
+            "text": "घ्राणग्राह्यो गुणो गन्धः। स द्विविधः सुरभिरसुरभिश्च। पृथिवीमात्रवृत्तिः॥ ३॥"
+          },
+          "id": "65bacb35e4badd2b0565282c",
+          "title": null,
+          "order": 21,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "55.080",
+            "end": "80.160",
+            "text": "त्वगिन्द्रियमात्रग्राह्यो गुणः स्पर्शः। स च त्रिविधः शीतोष्णानुष्णाशीतभेदात्। पृथिव्यप्तेजोवायुवृत्ति। तत्र शीतो जले। उष्णस्तेजसि। अनुष्णाशीतः पृथिवीवाय्वोः॥ ४॥"
+          },
+          "id": "65bacb36e4badd2b0565283b",
+          "title": null,
+          "order": 22,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "80.160",
+            "end": "92.960",
+            "text": "रूपादिचतुष्टयं पृथिव्यां पाकजमनित्यं च। अन्यत्र अपाकजं नित्यमनित्यं च नित्यगतं नित्यम् अनित्यगतमनित्यम्॥ ९॥"
+          },
+          "id": "65bacb35e4badd2b056527e8",
+          "title": null,
+          "order": 23,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "92.960",
+            "end": "116.440",
+            "text": "एकत्वादिव्यवहारहेतुः सङ्ख्या। सा नवद्रव्यवृत्तिः एकत्वादिपरार्धपर्यन्ता। एकत्वं नित्यमनित्यं च। नित्यगतं नित्यम्। अनित्यगतमनित्यम्। द्वित्वादिकं तु सर्वत्राऽनित्यमेव॥ ६॥"
+          },
+          "id": "65bacb35e4badd2b0565281b",
+          "title": null,
+          "order": 24,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "116.440",
+            "end": "128.880",
+            "text": "मानव्यवहारासाधारणकारणं परिमाणम्। नवद्रव्यवृत्तिः। तच्चतुर्विधम्। अणु महत् दीर्घं हृस्वं चेति॥ ७॥"
+          },
+          "id": "65bacb35e4badd2b05652835",
+          "title": null,
+          "order": 25,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "128.880",
+            "end": "137.360",
+            "text": "पृथग्व्यवहारासाधारणकारणं पृथक्त्वम्। सर्वद्रव्यवृत्तिः॥ ८॥"
+          },
+          "id": "65bacb35e4badd2b05652819",
+          "title": null,
+          "order": 26,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "137.360",
+            "end": "144.160",
+            "text": "संयुक्तव्यवहारहेतुः संयोगः। सर्वद्रव्यवृत्तिः॥ ९॥"
+          },
+          "id": "65bacb34e4badd2b056527d5",
+          "title": null,
+          "order": 27,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "144.160",
+            "end": "150.800",
+            "text": "संयोगनाशको गुणो विभागः। सर्वद्रव्यवृत्तिः॥ १०॥"
+          },
+          "id": "65bacb35e4badd2b056527e5",
+          "title": null,
+          "order": 28,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "150.800",
+            "end": "179.640",
+            "text": "परापरव्यवहारासाधारणकारणे परव्तापरत्वे। पृथिव्यादिचतुष्टयमनोवृत्तिनी। ते द्विविधे दिक्कृते कालकृते च। दूरस्थे दिक्कृतं परत्वम्। समीपस्थे कालकृतमपरत्वम्। ज्येष्ठे कालकृतं परत्वम्। कनिष्ठे कालकृतमपरत्वम्॥ ११॥"
+          },
+          "id": "65bacb35e4badd2b05652828",
+          "title": null,
+          "order": 29,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "179.640",
+            "end": "186.840",
+            "text": "आद्यपतनासमवायिकारणं गुरुत्वम्। पृथिवीजलवृत्ति॥ १२॥"
+          },
+          "id": "65bacb35e4badd2b0565282d",
+          "title": null,
+          "order": 30,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "186.840",
+            "end": "212.040",
+            "text": "आद्यस्यन्दनासमवायिकारणं द्रवत्वम्। पृथिव्यप्तेजोवृत्ति। तद्द्विविधं, सांसिद्धिकं नैमित्तिकं च। सांसिद्धिकं जले। नैमित्तिकं पृथिवीतेजसोः। पृथिव्यां घृतादावग्निसंयोगजं द्रवत्वम्। तेजसि सुवर्णादौ॥ १३॥"
+          },
+          "id": "65bacb35e4badd2b05652805",
+          "title": null,
+          "order": 31,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "212.040",
+            "end": "220.960",
+            "text": "चूर्णादिपिण्डीभावहेतुर्गुणः स्नेहः। जलमात्रवृत्तिः॥ १४॥"
+          },
+          "id": "65bacb34e4badd2b056527ce",
+          "title": null,
+          "order": 32,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "220.960",
+            "end": "238.640",
+            "text": "श्रोत्रग्राह्यो गुणः शब्दः, आकाशमात्रवृत्तिः। स द्विविधः, ध्वन्यात्मकः वर्णात्मकश्च। तत्र ध्वन्यात्मकः भेर्यादौ। वर्णात्मकः संस्कृतभाषादिरूपः॥ १५॥"
+          },
+          "id": "65bacb35e4badd2b0565280c",
+          "title": null,
+          "order": 33,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "238.640",
+            "end": "247.960",
+            "text": "सर्वव्यवहारहेतुर्गुणो बुद्धिर्ज्ञानम्। सा द्विविधा स्मृतिरनुभवश्च॥ १६॥"
+          },
+          "id": "65bacb34e4badd2b056527cf",
+          "title": null,
+          "order": 34,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "247.960",
+            "end": "251.960",
+            "text": "संस्कारमात्रजन्यं ज्ञानं स्मृतिः॥ १७॥"
+          },
+          "id": "65bacb35e4badd2b0565281d",
+          "title": null,
+          "order": 35,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "251.960",
+            "end": "260.560",
+            "text": "तद्भिन्नं ज्ञानमनुभवः। स द्विविधः, यथार्थोऽयथार्थश्च॥ १७॥"
+          },
+          "id": "65bacb35e4badd2b056527f4",
+          "title": null,
+          "order": 36,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "260.560",
+            "end": "269.960",
+            "text": "तद्वति तप्रकारकोऽनुभवो यथार्थः। यथा रजते इदं रजतमिति ज्ञानम्। सैव प्रमेच्युते॥ १९॥"
+          },
+          "id": "65bacb35e4badd2b056527f9",
+          "title": null,
+          "order": 37,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "269.960",
+            "end": "281.720",
+            "text": "तदभाववति तत्प्रकारकोऽनुभवोऽयथार्थः। यथा शुक्ताविदं रजतमिति। सैव अप्रमा इत्युच्यते॥ २०॥"
+          },
+          "id": "65bacb35e4badd2b05652839",
+          "title": null,
+          "order": 38,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "281.720",
+            "end": "289.040",
+            "text": "यथार्थानुभवः चतुर्विधः प्रत्यक्षानुमित्युपमितिशाब्दभेदात्॥ २१॥"
+          },
+          "id": "65bacb35e4badd2b0565280b",
+          "title": null,
+          "order": 39,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "289.040",
+            "end": "297.200",
+            "text": "तत् करणमपि चतुर्विधं प्रत्यक्षानुमानोपमानशब्दभेदात्॥ २२॥"
+          },
+          "id": "65bacb35e4badd2b056527ed",
+          "title": null,
+          "order": 40,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "297.200",
+            "end": "302.160",
+            "text": "(व्यापारवद्) असाधारणं कारणं करणम्॥ २३॥"
+          },
+          "id": "65bacb34e4badd2b056527dd",
+          "title": null,
+          "order": 41,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "302.160",
+            "end": "307.560",
+            "text": "कार्यनियतपूर्ववृत्ति कारणम्॥ २४॥"
+          },
+          "id": "65bacb35e4badd2b05652837",
+          "title": null,
+          "order": 42,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "307.560",
+            "end": "309.920",
+            "text": "कार्यं प्रागभावप्रतियोगि॥ २५॥"
+          },
+          "id": "65bacb35e4badd2b05652820",
+          "title": null,
+          "order": 43,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "309.920",
+            "end": "317.040",
+            "text": "कारणं त्रिविधम् - समाय्यसमवायिनिमित्तभेदात्॥ २६॥"
+          },
+          "id": "65bacb34e4badd2b056527df",
+          "title": null,
+          "order": 44,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "317.040",
+            "end": "327.720",
+            "text": "यत् समवेतं कार्यम् उत्पद्यते तत् समवायिकारणम्। यथा तन्तवः पटस्य, पटश्च स्वगतरूपादेः॥ २७॥"
+          },
+          "id": "65bacb35e4badd2b05652802",
+          "title": null,
+          "order": 45,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "327.720",
+            "end": "344.640",
+            "text": "कार्येण कारणेन वा सह एकस्मिन्नर्थे समवेतत्वे सति यत्कारणं तदसमवायिकारणम्। यथा तन्तुसंयोगः पटस्य, तन्तुरूपं पटरूपस्य॥ २८॥"
+          },
+          "id": "65bacb35e4badd2b0565281f",
+          "title": null,
+          "order": 46,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "344.640",
+            "end": "351.680",
+            "text": "तदुभयभिन्नं कारणं निमित्तकारणम् । यथा तुरीवेमादिकं पटस्य॥ २९॥"
+          },
+          "id": "65bacb35e4badd2b05652814",
+          "title": null,
+          "order": 47,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "351.680",
+            "end": "360.320",
+            "text": "तदेतत्त्रिविधकारणमध्ये यदसाधारणं कारणं तदेव करणम्॥ ३०॥"
+          },
+          "id": "65bacb34e4badd2b056527e4",
+          "title": null,
+          "order": 48,
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "sectionId": null,
+          "subsectionId": null
+        }
+      ],
+      "sections": [
+        {
+          "id": "65bab64a5b55a6532fd7645a",
+          "title": "अथ प्रत्यक्षप्रमाणनिरूपणम्",
+          "order": 1,
+          "sectionId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_3-1",
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "paragraphs": [
+            {
+              "line": {
+                "begin": "360.320",
+                "end": "364.440",
+                "text": "तत्र प्रत्यक्षज्ञानकरणं प्रत्यक्षम्॥ १॥"
+              },
+              "id": "65bacb35e4badd2b05652806",
+              "title": null,
+              "order": 49,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd7645a",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "364.440",
+                "end": "387.200",
+                "text": "इन्द्रियार्थसन्निकर्षजन्यं ज्ञानं प्रत्यक्षम्। तद्द्विविधं निर्विकल्पकं सविकल्पकं चेति। तत्र निष्प्रकारकं ज्ञानं निर्विकल्पकं (यथेदं किञ्चित्)। सप्रकारकं ज्ञानं सविकल्पकं यथा डित्थोऽयं, ब्राह्मणोऽयं, श्यामोऽयं, पाचकोऽयमिति॥ २॥"
+              },
+              "id": "65bacb35e4badd2b056527f1",
+              "title": null,
+              "order": 50,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd7645a",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "387.200",
+                "end": "403.920",
+                "text": "प्रत्यक्षज्ञानहेतुरिन्द्रियार्थसन्निकर्षः षड्विधः। संयोगः, संयुक्तसमवायः, संयुक्तसमवेतसमवायः, समवायः, समवेतसमवायः, विशेषणविशेष्यभावश्चेति॥ ३३॥"
+              },
+              "id": "65bacb35e4badd2b0565283a",
+              "title": null,
+              "order": 51,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd7645a",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "403.920",
+                "end": "410.400",
+                "text": "चक्षुषा धटप्रत्यक्षजनने संयोगः सन्निकर्षः॥ ४॥"
+              },
+              "id": "65bacb35e4badd2b056527f6",
+              "title": null,
+              "order": 52,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd7645a",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "410.400",
+                "end": "420.120",
+                "text": "घटरूपप्रत्यक्षजनने संयुक्तसमवायः संनिकर्षः। चक्षुः संयुक्ते धटे रूपस्य समवायात्॥ ५॥"
+              },
+              "id": "65bacb34e4badd2b056527d4",
+              "title": null,
+              "order": 53,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd7645a",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "420.120",
+                "end": "432.800",
+                "text": "रूपत्वसामान्यप्रत्यक्षे संयुक्तसमवेतसमवायः सन्निकर्षः। चक्षुः संयुक्ते घटे रूपं समवेतं, तत्र रूपत्वस्य समवायात्॥ ६॥"
+              },
+              "id": "65bacb35e4badd2b05652823",
+              "title": null,
+              "order": 54,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd7645a",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "432.800",
+                "end": "447.320",
+                "text": "श्रोत्रेण शब्दसाक्षात्कारे समवायः सन्निकर्षः, कर्णविवरवत्याकाशस्य श्रोत्रत्वात्, शब्दस्याकाशगुणत्वात्, गुणगुणिनोश्च समवायात्॥ ७॥"
+              },
+              "id": "65bacb35e4badd2b056527fc",
+              "title": null,
+              "order": 55,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd7645a",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "447.320",
+                "end": "458.680",
+                "text": "शब्दत्वसाक्षात्कारे समवेतसमवायः सन्निकर्षः, श्रोत्रसमवेते शब्दे शब्दत्वस्य समवायात्॥ ८॥"
+              },
+              "id": "65bacb34e4badd2b056527d1",
+              "title": null,
+              "order": 56,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd7645a",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "458.680",
+                "end": "471.440",
+                "text": "अभावप्रत्यक्षे विशेषणविशेष्यभावः सन्निकर्षः, घटाभाववद्भूतलमित्यत्र चक्षुः संयुक्ते भूतले घटाभावस्य विशेषणत्वात्॥ ९॥"
+              },
+              "id": "65bacb35e4badd2b056527f5",
+              "title": null,
+              "order": 57,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd7645a",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "471.440",
+                "end": "482.360",
+                "text": "एवं सन्निकर्षषट्कजन्यं ज्ञानं प्रत्यक्षम्, तत्करणमिन्द्रियम्, तस्मादिन्द्रियं प्रत्यक्षप्रमाणमिति सिद्धम्॥ १०॥"
+              },
+              "id": "65bacb35e4badd2b056527fe",
+              "title": null,
+              "order": 58,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd7645a",
+              "subsectionId": null
+            }
+          ]
+        },
+        {
+          "id": "65bab64a5b55a6532fd76459",
+          "title": "अथ अनुमानप्रमाणनिरूपणम्",
+          "order": 2,
+          "sectionId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_3-2",
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "paragraphs": [
+            {
+              "line": {
+                "begin": "482.360",
+                "end": "484.840",
+                "text": "अनुमितिकरणमनुमानम्॥ १॥"
+              },
+              "id": "65bacb35e4badd2b05652832",
+              "title": null,
+              "order": 59,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "484.840",
+                "end": "490.240",
+                "text": "परामर्शजन्यं ज्ञानमनुमितिः॥ २॥"
+              },
+              "id": "65bacb35e4badd2b05652804",
+              "title": null,
+              "order": 60,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "490.240",
+                "end": "505.800",
+                "text": "व्याप्तिविशिष्टपक्षधर्मताज्ञानं परामर्शः। यथा वह्निव्याप्यधूमवानयं पर्वत इति ज्ञानं परामर्शः। तज्जन्यं पर्वतो वह्निमानिति ज्ञानमनुमितिः॥ ३॥"
+              },
+              "id": "65bacb34e4badd2b056527d7",
+              "title": null,
+              "order": 61,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "505.800",
+                "end": "512.320",
+                "text": "यत्र यत्र धूमस्तत्र तत्राग्निरिति साहचर्यनियमो व्याप्तिः॥ ४॥"
+              },
+              "id": "65bacb35e4badd2b05652818",
+              "title": null,
+              "order": 62,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "512.320",
+                "end": "517.080",
+                "text": "व्याप्यस्य पर्वतादिवृत्तित्वं पक्षधर्मता॥ ५॥"
+              },
+              "id": "65bacb34e4badd2b056527e1",
+              "title": null,
+              "order": 63,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "517.080",
+                "end": "521.000",
+                "text": "अनुमानं द्विविधं - स्वार्थं परार्थं च॥ ६॥"
+              },
+              "id": "65bacb35e4badd2b056527f7",
+              "title": null,
+              "order": 64,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "521.000",
+                "end": "565.280",
+                "text": "तत्र स्वार्थं स्वानुमितिहेतुः, तथाहि, स्वयमेव भूयोदर्शनेन यत्र यत्र धूमस्तत्र तत्राग्निरिति महानसादौ व्याप्ति गृहीत्वा पर्वतसमीपं गतः, तद्गते चाग्नौ सन्दिहानः पर्वते धूमं पश्यन् व्याप्तिं स्मरति यत्र यत्र धूमस्तत्र तत्राग्निरिति। तदनन्तरं वह्निव्याप्यधूमवानयं पर्वत इति ज्ञानमुत्पद्यते, अयमेव लिङ्गपरामर्शः इत्युच्यते। तस्माद् पर्वतो वह्निमानिति ज्ञानमनुमितिः उत्पद्यते। तदेतत् स्वार्थानुमानम्॥ ७॥"
+              },
+              "id": "65bacb35e4badd2b0565282b",
+              "title": null,
+              "order": 65,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "565.280",
+                "end": "590.080",
+                "text": "यत्तु स्वयं धूमादग्निमनुमाय परप्रतिपत्त्यर्थं पञ्चावयववाक्यं प्रयुज्यते तत् परार्थानुमानम्। यथा पर्वतो वह्निमान्, धूमवत्वात्, यो यो धूमवान् स स वह्निमान् यथा महानसः, तथा चायं, तस्मात्तथेति। अनेन प्रतिपादितात् लिङ्गात् परोऽप्यग्निं प्रतिपद्यते॥ ८॥"
+              },
+              "id": "65bacb34e4badd2b056527db",
+              "title": null,
+              "order": 66,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "590.080",
+                "end": "613.040",
+                "text": "प्रतिज्ञा-हेतु-उदाहरण-उपनय-निगमनानि पञ्चावयवाः। पर्वतो वह्निमानिति प्रतिज्ञा। धूमवत्वात् इति हेतुः। यो यो धूमवान् स स वह्निमान् यथा महानस इत्युदाहरणम्। तथा च अयमिति उपनयः। तस्मात्तथेति निगमनम्॥ ९॥"
+              },
+              "id": "65bacb35e4badd2b056527ee",
+              "title": null,
+              "order": 67,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "613.040",
+                "end": "622.280",
+                "text": "स्वार्थानुमितिपरार्थानुमित्योः लिङ्गपरामर्श एव करणम्। तस्मात् लिङ्गपरामर्शोऽनुमानम्॥ १०॥"
+              },
+              "id": "65bacb35e4badd2b0565282a",
+              "title": null,
+              "order": 68,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "622.280",
+                "end": "649.800",
+                "text": "लिङ्गं त्रिविधम्। अन्वयव्यतिरेकि, केवलान्वयि, केवलव्यतिरेकि चेति। अन्वयेन व्यतिरेकेण च व्याप्तिमदन्वयव्यतिरेकि। यथा वह्नौ साध्ये धूमवत्वम्। यत्र धूमस्तत्राग्निर्यथा महानस इत्यन्वयव्याप्तिः। यत्र वह्निर्नास्ति तत्र धूमोऽपि नास्ति यथा महाहृद इति व्यतिरेकव्याप्तिः॥ ११॥"
+              },
+              "id": "65bacb34e4badd2b056527d8",
+              "title": null,
+              "order": 69,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "649.800",
+                "end": "668.480",
+                "text": "अन्वयमात्रव्याप्तिकं केवलान्वयि। यथा घटः अभिधेयः प्रमेयत्वात् पटवत्। अत्र प्रमेयत्वाभिधेयत्वयोः व्यतिरेकव्याप्तिर्नास्ति, सर्वस्यापि प्रमेयत्वात् अभिधेयत्वाच्च॥ १२॥"
+              },
+              "id": "65bacb35e4badd2b05652810",
+              "title": null,
+              "order": 70,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "668.480",
+                "end": "694.520",
+                "text": "व्यतिरेकमात्रव्याप्तिकं केवलव्यतिरेकि, यथा पृथिवीतरेभ्यो भिद्यते गन्धवत्वात्। यदितरेभ्यो न भिद्यते न तद्गन्धवत् यथा जलम्। न चेयं तथा। तस्मान्न तथेति। अत्र यद्गन्धवत् तदितरभिन्नम् इत्यन्वयदृष्टान्तो नास्ति, पृथिवीमात्रस्य पक्षत्वात्॥ १३॥"
+              },
+              "id": "65bacb35e4badd2b056527e6",
+              "title": null,
+              "order": 71,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "694.520",
+                "end": "700.640",
+                "text": "सन्दिग्धसाध्यवान् पक्षः। यथा धूमवत्त्वे हेतौ पर्वतः॥ १४॥"
+              },
+              "id": "65bacb35e4badd2b056527f0",
+              "title": null,
+              "order": 72,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "700.640",
+                "end": "706.800",
+                "text": "निश्चितसाध्यवान् सपक्षः, यथा तत्रैव महानसम्॥ १५॥"
+              },
+              "id": "65bacb35e4badd2b056527ea",
+              "title": null,
+              "order": 73,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "706.800",
+                "end": "712.880",
+                "text": "निश्चितसाध्याऽभाववान् विपक्षः। यथा तत्रैव महाहृदः॥ १६॥"
+              },
+              "id": "65bacb35e4badd2b05652827",
+              "title": null,
+              "order": 74,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "712.880",
+                "end": "719.880",
+                "text": "सव्यभिचारविरुद्धसत्प्रतिपक्षासिद्धबाधिताः पञ्च हेत्वाभासाः॥ १७॥"
+              },
+              "id": "65bacb34e4badd2b056527d6",
+              "title": null,
+              "order": 75,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "719.880",
+                "end": "729.160",
+                "text": "सव्यभिचारः अनैकान्तिकः। स त्रिविधः साधारणासाधारणानुपसंहारिभेदात्॥ १८॥"
+              },
+              "id": "65bacb35e4badd2b05652803",
+              "title": null,
+              "order": 76,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "729.160",
+                "end": "744.480",
+                "text": "तत्र साध्याभाववद्वृत्तिः साधारणो अनैकान्तिकः, यथा पर्वतो वह्निमान् प्रमेयत्वात् इति। प्रमेयत्वस्य वह्न्यभाववति हृदे विद्यमानत्वात्॥ १९॥"
+              },
+              "id": "65bacb35e4badd2b05652816",
+              "title": null,
+              "order": 77,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "744.480",
+                "end": "761.760",
+                "text": "सर्वसपक्षविपक्षव्यावृत्तः पक्षमात्रवृत्तिः असाधारणः। यथा शब्दो नित्यः शब्दत्वात् इति। शब्दत्वं हि सर्वेभ्यो नित्येभ्योऽनित्येभ्यश्च व्यवृत्तं शब्दमात्रवृत्ति॥ २०॥"
+              },
+              "id": "65bacb35e4badd2b056527e7",
+              "title": null,
+              "order": 78,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "761.760",
+                "end": "775.200",
+                "text": "अन्वयव्यतिरेकदृष्टान्तरहितोऽनुपसंहारी। यथा सर्वमनित्यं प्रमेयत्वादिति। अत्र सर्वस्यापि पक्षत्वात् दृष्टान्तो नास्ति॥ २१॥"
+              },
+              "id": "65bacb35e4badd2b05652817",
+              "title": null,
+              "order": 79,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "775.200",
+                "end": "787.480",
+                "text": "साध्याभावव्याप्तो हेतुर्विरुद्धः। यथा शब्दो नित्यः कृतकत्वादिति। कृतकत्वं हि नित्यत्वाभावेनाऽनित्यत्वेन व्याप्तम्॥ २२॥"
+              },
+              "id": "65bacb35e4badd2b05652809",
+              "title": null,
+              "order": 80,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "787.480",
+                "end": "802.000",
+                "text": "यस्य साध्याभावसाधकं हेत्वन्तरं विद्यते स सत्प्रतिपक्षः। यथा शब्दो नित्यः श्रावणत्वात् शब्दत्ववत्। शब्दोऽनित्यः कार्यत्वात् घटवदिति॥ २३॥"
+              },
+              "id": "65bacb35e4badd2b05652836",
+              "title": null,
+              "order": 81,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "802.000",
+                "end": "809.400",
+                "text": "असिद्धस्त्रिविधः - आश्रयासिद्धः, स्वरूपासिद्धः, व्याप्यत्वासिद्धश्चेति॥ २४॥"
+              },
+              "id": "65bacb24e4badd2b0565275d",
+              "title": null,
+              "order": 82,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "809.400",
+                "end": "820.440",
+                "text": "आश्रयासिद्धो यथा गगनारविन्दं सुरभि-अरविन्दत्वात् सरोजारविन्दवदिति। अत्र गगनारविन्दमाश्रयः स च नास्त्येव॥ २५॥"
+              },
+              "id": "65bacb35e4badd2b05652829",
+              "title": null,
+              "order": 83,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "820.440",
+                "end": "831.120",
+                "text": "स्वरूपासिद्धो यथा शब्दो गुणः, चाक्षुषत्वात्। अत्र चाक्षुषत्वं शब्दे नास्ति शब्दस्य श्रावणत्वात्॥ २६॥"
+              },
+              "id": "65bacb34e4badd2b056527e0",
+              "title": null,
+              "order": 84,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "831.120",
+                "end": "889.600",
+                "text": "सोपाधिको हेतुः व्याप्यत्वासिद्धः। साध्यव्यापकत्वे सति साधनाव्यापकत्वम् उपाधिः। साध्यसमानाधिकरणान्त्यन्ताभावाप्रतियोगित्वं साध्यव्यापकत्वम्। साधनवन्निष्ठात्यन्ताभावप्रतियोगित्वं साधनाव्यापकत्वम्। यथा - पर्वतो धूमवान्वह्निमत्वादित्यत्र आर्द्रेन्धनसंयोगः उपाधिः। तथाहि, यत्र धूमस्तत्रार्द्रेन्धनसंयोग इति साध्यव्यापकत्वम्। यत्र वह्निस्तत्रार्द्रेन्धनसंयोगो नास्ति अयोगोलके आर्द्रेन्धनसंयोगाभावादिति साधनाव्यापकत्वम्। एवं साध्यव्यापकत्वे सति साधनाव्यापकत्वादार्द्रेन्धनसंयोगः उपाधिः। सोपाधिकत्वात् वह्निमत्वं व्याप्यत्वासिद्धम्॥ २७॥"
+              },
+              "id": "65bacb35e4badd2b0565280a",
+              "title": null,
+              "order": 85,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "889.600",
+                "end": "907.240",
+                "text": "यस्य साध्याभावः प्रमाणान्तरेण पक्षे निश्चितः स बाधितः। यथा वह्निरनुष्णो द्रव्यत्वादिति। अत्रानुष्णत्वं साध्यं तदभाव-उष्णत्वं स्पार्शनप्रत्यक्षेण गृह्यत इति बाधितत्वम्॥ २८॥"
+              },
+              "id": "65bacb35e4badd2b0565280e",
+              "title": null,
+              "order": 86,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76459",
+              "subsectionId": null
+            }
+          ]
+        },
+        {
+          "id": "65bab64a5b55a6532fd76458",
+          "title": "अथ उपमानप्रमाणनिरूपणम्",
+          "order": 3,
+          "sectionId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_3-3",
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "paragraphs": [
+            {
+              "line": {
+                "begin": "907.240",
+                "end": "941.240",
+                "text": "उपमितिकरणमुपमानम्। संज्ञासंज्ञिसम्बन्धज्ञानमुपमितिः। तत्करणं सादृश्यज्ञानम्। अतिदेशवाक्यार्थस्मरणम् अवान्तरव्यापारः। तथा हि, कश्चिद्गवयशब्दवाच्यमजानन् कुतश्चित् आरण्यकपुरुषाद्गोसदृशो गवय इति श्रुत्वा, वनं गतो, वाक्यार्थं स्मरन्, गोसदृशं पिण्डं पश्यति। तदनन्तरमयं गवयशब्दवाच्य इत्युपमितिरुत्पद्यते॥ १॥"
+              },
+              "id": "65bacb35e4badd2b05652833",
+              "title": null,
+              "order": 87,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76458",
+              "subsectionId": null
+            }
+          ]
+        },
+        {
+          "id": "65bab64a5b55a6532fd76457",
+          "title": "अथ शब्दप्रमाणनिरूपणम्",
+          "order": 4,
+          "sectionId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_3-4",
+          "chapterId": "65bab4f205dab4e43901f19c",
+          "paragraphs": [
+            {
+              "line": {
+                "begin": "941.240",
+                "end": "958.080",
+                "text": "आप्तवाक्यं शब्दः। आप्तस्तु, यथार्थवक्ता। वाक्यं पदसमूहः। यथा गामानयेति। शक्तं पदम्। अस्मात्पदात् अयमर्थो बोद्धव्य इति ईश्वरसङ्केतः शक्तिः॥ १॥"
+              },
+              "id": "65bacb35e4badd2b05652838",
+              "title": null,
+              "order": 88,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76457",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "958.080",
+                "end": "976.840",
+                "text": "आकाङ्क्षा योग्यता संनिधिश्च वाक्यार्थज्ञानहेतुः। पदस्य पदान्तरव्यतिरेकप्रयुक्तान्वयाननुभावकत्वम् आकाङ्क्षा। अर्थाबाधो योग्यता। पदानामविलम्बेनोच्चारणं संनिधिः॥ २॥"
+              },
+              "id": "65bacb35e4badd2b0565281c",
+              "title": null,
+              "order": 89,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76457",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "976.840",
+                "end": "998.800",
+                "text": "आकाङ्क्षादिरहितं वाक्यमप्रमाणम्। यथा गौरश्वः पुरुषो हस्तीति न प्रमाणामाकाङ्क्षाविरहात्। अग्निना सिञ्चेदिति न प्रमाणं योग्यताविरहात्। प्रहरे प्रहरेऽसहोच्चारितानि गामानयेत्यादिपदानि न प्रमाणं सांनिध्याभावात्॥ ३॥"
+              },
+              "id": "65bacb35e4badd2b05652834",
+              "title": null,
+              "order": 90,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76457",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "998.800",
+                "end": "1011.600",
+                "text": "वाक्यं द्विविधम्। वैदिकं लौकिकं च। वैदिकमीश्वरोक्तत्वात्सर्वमेव प्रमाणम्। लौकिकं तु, आप्तोक्तं प्रमाणम्। अन्यदप्रमाणम्॥ ४॥"
+              },
+              "id": "65bacb35e4badd2b0565281a",
+              "title": null,
+              "order": 91,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76457",
+              "subsectionId": null
+            },
+            {
+              "line": {
+                "begin": "1011.600",
+                "end": "1018.120",
+                "text": "वाक्यार्थज्ञानं शाब्दज्ञानम्। तत्करणं शब्दः॥ ५॥"
+              },
+              "id": "65bacb34e4badd2b056527e3",
+              "title": null,
+              "order": 92,
+              "chapterId": null,
+              "sectionId": "65bab64a5b55a6532fd76457",
+              "subsectionId": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "65bab4f305dab4e43901f1a1",
+      "title": "अवशिष्टगुणनिरूपणम्",
+      "order": 4,
+      "chapterId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_4",
+      "bookId": "65b2e88a6c44e0bfe0b17f1d",
+      "paragraphs": [
+        {
+          "line": {
+            "begin": "0.000",
+            "end": "6.600",
+            "text": "अयथार्थानुभवस्त्रिविधः, संशयविपर्ययतर्कभेदात्॥ १॥"
+          },
+          "id": "65bacb35e4badd2b056527fb",
+          "title": null,
+          "order": 93,
+          "chapterId": "65bab4f305dab4e43901f1a1",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "6.600",
+            "end": "17.160",
+            "text": "एकस्मिन्धर्मिणि विरुद्धनानाधर्मवैशिष्ट्यावगाहि ज्ञानं संशयः। यथा स्थाणुर्वा पुरुषो वा इति॥ २॥"
+          },
+          "id": "65bacb35e4badd2b05652824",
+          "title": null,
+          "order": 94,
+          "chapterId": "65bab4f305dab4e43901f1a1",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "17.160",
+            "end": "21.800",
+            "text": "मिथ्याज्ञानं विपर्ययः। यथा शुक्तौ इदं रजतमिति॥ ३॥"
+          },
+          "id": "65bacb35e4badd2b056527fd",
+          "title": null,
+          "order": 95,
+          "chapterId": "65bab4f305dab4e43901f1a1",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "21.800",
+            "end": "31.000",
+            "text": "व्याप्यारोपेण व्यापकारोपस्तर्कः, यथा यदि वह्निर्न स्यात्तर्हि धूमोऽपि न स्यादिति॥ ४॥"
+          },
+          "id": "65bacb35e4badd2b056527f8",
+          "title": null,
+          "order": 96,
+          "chapterId": "65bab4f305dab4e43901f1a1",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "31.000",
+            "end": "39.920",
+            "text": "स्मृतिरपि द्विविधा। यथार्थायथार्था च। प्रमाजन्या यथार्था। अप्रमाजन्याऽयथार्था॥ ५॥"
+          },
+          "id": "65bacb34e4badd2b056527d2",
+          "title": null,
+          "order": 97,
+          "chapterId": "65bab4f305dab4e43901f1a1",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "39.920",
+            "end": "44.240",
+            "text": "सर्वेषामनुकूलतया वेदनीयं सुखम्॥ ६॥"
+          },
+          "id": "65bacb35e4badd2b056527fa",
+          "title": null,
+          "order": 98,
+          "chapterId": "65bab4f305dab4e43901f1a1",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "44.240",
+            "end": "48.440",
+            "text": "सर्वेषां प्रतिकूलतया वेदनीयं दुःखम्॥ ७॥"
+          },
+          "id": "65bacb35e4badd2b056527f2",
+          "title": null,
+          "order": 99,
+          "chapterId": "65bab4f305dab4e43901f1a1",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "48.440",
+            "end": "58.600",
+            "text": "इच्छा कामः। क्रोधो द्वेषः। कृतिः प्रयत्नः। विहितकर्मजन्यो धर्मः। निषिद्धकर्मजन्यस्त्वधर्मः॥ ८॥"
+          },
+          "id": "65bacb34e4badd2b056527d0",
+          "title": null,
+          "order": 100,
+          "chapterId": "65bab4f305dab4e43901f1a1",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "58.600",
+            "end": "72.640",
+            "text": "बुद्ध्यादयोऽष्टौ आत्ममात्रविशेषगुणाः। बुद्धीच्छाप्रयत्ना द्विविधाः। नित्या अनित्याश्च। नित्या ईश्वरस्य अनित्या जीवस्य॥ ९॥"
+          },
+          "id": "65bacb34e4badd2b056527dc",
+          "title": null,
+          "order": 101,
+          "chapterId": "65bab4f305dab4e43901f1a1",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "72.640",
+            "end": "93.880",
+            "text": "संस्कारस्त्रिविधः। वेगो भावना स्थितिस्थापकश्चेति। वेगः पृथिव्यादिचतुष्टयमनोवृत्तिः। अनुभवजन्या स्मृतिहेतुर्भावना। आत्ममात्रवृत्तिः। अन्यथाकृतस्य पुनस्तदवस्थापकः स्थितिस्थापकः, कटादिपृथिवीवृत्तिः॥ १०॥"
+          },
+          "id": "65bacb35e4badd2b056527f3",
+          "title": null,
+          "order": 102,
+          "chapterId": "65bab4f305dab4e43901f1a1",
+          "sectionId": null,
+          "subsectionId": null
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "65bab4f305dab4e43901f19e",
+      "title": "कर्मादिलक्षणप्रकरणम्",
+      "order": 5,
+      "chapterId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_5",
+      "bookId": "65b2e88a6c44e0bfe0b17f1d",
+      "paragraphs": [
+        {
+          "line": {
+            "begin": "0.000",
+            "end": "21.920",
+            "text": "चलनात्मकं कर्म। ऊर्ध्वदेशसंयोगहेतुरुत्क्षेपणम्। अधोदेशसंयोगहेतुरपक्षेपणम्। शरीरसंनिकृष्टसंयोगहेतुराकुञ्चनम्। विप्रकृष्टसंयोगहेतुः प्रसारणम्। अन्यत् सर्वं गमनम्। पृथिव्यादिचतुष्टयमनोमात्रवृत्ति॥ १॥"
+          },
+          "id": "65bacb34e4badd2b056527d3",
+          "title": null,
+          "order": 103,
+          "chapterId": "65bab4f305dab4e43901f19e",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "21.920",
+            "end": "33.680",
+            "text": "नित्यमेकमनेकानुगतं सामान्यं द्रव्यगुणकर्मवृत्ति। तद्विविधं पराऽपरभेदात्। परं सत्ता। अपरं द्रव्यत्वादि॥ २॥"
+          },
+          "id": "65bacb35e4badd2b056527ff",
+          "title": null,
+          "order": 104,
+          "chapterId": "65bab4f305dab4e43901f19e",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "33.680",
+            "end": "38.360",
+            "text": "नित्यद्रव्यवृत्तयो व्यावर्तका विशेषाः॥ ३॥"
+          },
+          "id": "65bacb34e4badd2b056527d9",
+          "title": null,
+          "order": 105,
+          "chapterId": "65bab4f305dab4e43901f19e",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "38.360",
+            "end": "58.520",
+            "text": "नित्यसम्बन्धः समवायः। अयुतसिद्धवृत्तिः। ययोर्द्वयोर्मध्ये एकमविनश्यदपराऽश्रितमेवावतिष्ठते तावयुतसिद्धौ, यथा अवयवावयविनौ, गुणगुणिनौ, क्रियाक्रियावन्तौ, जातिव्यक्ती, विशेषनित्यद्रव्ये चेति॥ ४॥"
+          },
+          "id": "65bacb35e4badd2b05652813",
+          "title": null,
+          "order": 106,
+          "chapterId": "65bab4f305dab4e43901f19e",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "58.520",
+            "end": "64.240",
+            "text": "अनादिः सान्तः प्रागभावः। उत्पत्तेः पूर्वं कार्यस्य॥ ५॥"
+          },
+          "id": "65bacb35e4badd2b05652826",
+          "title": null,
+          "order": 107,
+          "chapterId": "65bab4f305dab4e43901f19e",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "64.240",
+            "end": "71.760",
+            "text": "सादिरन्तः प्रध्वंसः। उत्पत्यनन्तरं कार्यस्य॥ ६॥"
+          },
+          "id": "65bacb35e4badd2b0565281e",
+          "title": null,
+          "order": 108,
+          "chapterId": "65bab4f305dab4e43901f19e",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": "71.760",
+            "end": "85.920",
+            "text": "त्रैकालिकसंसर्गावच्छिन्नप्रतियोगिताकोऽत्यन्ताभावः। यथा भूतले घटो नास्तीति॥ ७॥"
+          },
+          "id": "65bacb35e4badd2b056527eb",
+          "title": null,
+          "order": 109,
+          "chapterId": "65bab4f305dab4e43901f19e",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": " ",
+            "end": " ",
+            "text": "तादात्म्यसम्बन्धावच्छिन्नप्रतियोगिताकोऽन्योन्याभावः। यथा घटः पटो नेति॥ ८॥"
+          },
+          "id": "65bacb35e4badd2b05652811",
+          "title": null,
+          "order": 110,
+          "chapterId": "65bab4f305dab4e43901f19e",
+          "sectionId": null,
+          "subsectionId": null
+        }
+      ],
+      "sections": []
+    },
+    {
+      "id": "65bab4f305dab4e43901f19f",
+      "title": "उपसंहारः",
+      "order": 6,
+      "chapterId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_6",
+      "bookId": "65b2e88a6c44e0bfe0b17f1d",
+      "paragraphs": [
+        {
+          "line": {
+            "begin": " ",
+            "end": " ",
+            "text": "सर्वेषां पदार्थानां यथायथमुक्तेष्वन्तर्भावात् सप्तैव पदार्थाः इति सिद्धम्॥ ९॥"
+          },
+          "id": "65bacb35e4badd2b056527ef",
+          "title": null,
+          "order": 111,
+          "chapterId": "65bab4f305dab4e43901f19f",
+          "sectionId": null,
+          "subsectionId": null
+        },
+        {
+          "line": {
+            "begin": " ",
+            "end": " ",
+            "text": "कणादन्यायमतयोर्बलव्युत्पत्तिसिद्धये। अन्नम्भट्टेन विदुषा रचितस्तर्कसङ्ग्रहः॥ २०॥"
+          },
+          "id": "65bacb35e4badd2b05652825",
+          "title": null,
+          "order": 112,
+          "chapterId": "65bab4f305dab4e43901f19f",
+          "sectionId": null,
+          "subsectionId": null
+        }
+      ],
+      "sections": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "tsc && node index.js",
+    "build": "tsc --build"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.9.0",
+    "@types/node": "^20.11.14",
+    "mongodb": "^6.3.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.9.0",
+    "typescript": "^5.3.3"
+  }
+}

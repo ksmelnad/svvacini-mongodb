@@ -1,0 +1,450 @@
+[
+  {
+    "id": "65bab4f205dab4e43901f19c",
+    "title": "गुणलक्षणप्रकरणम्",
+    "order": 3,
+    "chapterId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_3",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_UPG_NY_NYS_NVNYYK_PG_TKS/SC1_3.mp3",
+    "bookId": "65b2e88a6c44e0bfe0b17f1d"
+  },
+  {
+    "id": "65bab4f205dab4e43901f19d",
+    "title": "द्रव्यलक्षणप्रकरणम्",
+    "order": 2,
+    "chapterId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_2",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_UPG_NY_NYS_NVNYYK_PG_TKS/SC1_2.mp3",
+    "bookId": "65b2e88a6c44e0bfe0b17f1d"
+  },
+  {
+    "id": "65bab4f305dab4e43901f19e",
+    "title": "कर्मादिलक्षणप्रकरणम्",
+    "order": 5,
+    "chapterId": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_5",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_UPG_NY_NYS_NVNYYK_PG_TKS/SC1_5.mp3",
+    "bookId": "65b2e88a6c44e0bfe0b17f1d"
+  },
+  {
+    "id": "65bae42cfe454a455dcc141c",
+    "title": "प्रथमः सर्गः",
+    "order": 1,
+    "chapterId": "BV_SH_SS_PS_RV_1",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_SH_SS_PS_RV/SC1_1_CID_1-10.mp3",
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc141d",
+    "title": "नवमः सर्गः",
+    "order": 9,
+    "chapterId": "BV_SH_SS_PS_RV_9",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc141e",
+    "title": "चतुर्थः सर्गः",
+    "order": 4,
+    "chapterId": "BV_SH_SS_PS_RV_4",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc141f",
+    "title": "एकादशः सर्गः",
+    "order": 11,
+    "chapterId": "BV_SH_SS_PS_RV_11",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc1420",
+    "title": "षष्ठः सर्गः",
+    "order": 6,
+    "chapterId": "BV_SH_SS_PS_RV_6",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc1421",
+    "title": "तृतीयः सर्गः",
+    "order": 3,
+    "chapterId": "BV_SH_SS_PS_RV_3",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc1422",
+    "title": "षोडशः सर्गः",
+    "order": 16,
+    "chapterId": "BV_SH_SS_PS_RV_16",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc1423",
+    "title": "सप्तमः सर्गः",
+    "order": 7,
+    "chapterId": "BV_SH_SS_PS_RV_7",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc1424",
+    "title": "अष्टमः सर्गः",
+    "order": 8,
+    "chapterId": "BV_SH_SS_PS_RV_8",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc1425",
+    "title": "त्रयोदशः सर्गः",
+    "order": 13,
+    "chapterId": "BV_SH_SS_PS_RV_13",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc1426",
+    "title": "पञ्चदशः सर्गः",
+    "order": 15,
+    "chapterId": "BV_SH_SS_PS_RV_15",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc1427",
+    "title": "चतुर्दशः सर्गः",
+    "order": 14,
+    "chapterId": "BV_SH_SS_PS_RV_14",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc1428",
+    "title": "सप्तदशः सर्गः",
+    "order": 17,
+    "chapterId": "BV_SH_SS_PS_RV_17",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc1429",
+    "title": "अष्टादशः सर्गः",
+    "order": 18,
+    "chapterId": "BV_SH_SS_PS_RV_18",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc142a",
+    "title": "नवदशः सर्गः",
+    "order": 19,
+    "chapterId": "BV_SH_SS_PS_RV_19",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42cfe454a455dcc142b",
+    "title": "पञ्चमः सर्गः",
+    "order": 5,
+    "chapterId": "BV_SH_SS_PS_RV_5",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42dfe454a455dcc142c",
+    "title": "द्वादशः सर्गः",
+    "order": 12,
+    "chapterId": "BV_SH_SS_PS_RV_12",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42dfe454a455dcc142d",
+    "title": "दशमः सर्गः",
+    "order": 10,
+    "chapterId": "BV_SH_SS_PS_RV_10",
+    "audio": null,
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65bae42dfe454a455dcc142e",
+    "title": "द्वितीयः सर्गः",
+    "order": 2,
+    "chapterId": "BV_SH_SS_PS_RV_2",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_SH_SS_PS_RV/SC1_2_CID_96-115.mp3",
+    "bookId": "65bae42afe454a455dcc141b"
+  },
+  {
+    "id": "65c244a336ebc0434bf4768f",
+    "title": "श्रेढीव्यवहारः",
+    "order": 7,
+    "chapterId": "BV_GN_LVG_7",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a336ebc0434bf47690",
+    "title": "शून्यपरिकर्माष्टकम्",
+    "order": 4,
+    "chapterId": "BV_GN_LVG_4",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a336ebc0434bf47691",
+    "title": "प्रकीर्णकम्",
+    "order": 5,
+    "chapterId": "BV_GN_LVG_5",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a336ebc0434bf47693",
+    "title": "राशिव्यवहारः",
+    "order": 12,
+    "chapterId": "BV_GN_LVG_12",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a336ebc0434bf47694",
+    "title": "ग्रन्थसमाप्तिः",
+    "order": 16,
+    "chapterId": "BV_GN_LVG_16",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a336ebc0434bf47692",
+    "title": "अङ्कपाशः",
+    "order": 15,
+    "chapterId": "BV_GN_LVG_15",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a336ebc0434bf47696",
+    "title": "भिन्नपरिकर्माष्टकम्",
+    "order": 3,
+    "chapterId": "BV_GN_LVG_3",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a336ebc0434bf47697",
+    "title": "क्रकचव्यवहारः",
+    "order": 11,
+    "chapterId": "BV_GN_LVG_11",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a336ebc0434bf47695",
+    "title": "परिकर्माष्टकम्",
+    "order": 2,
+    "chapterId": "BV_GN_LVG_2",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a336ebc0434bf47698",
+    "title": "छायाव्यवहारः",
+    "order": 13,
+    "chapterId": "BV_GN_LVG_13",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a436ebc0434bf47699",
+    "title": "कुट्टकम्",
+    "order": 14,
+    "chapterId": "BV_GN_LVG_14",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a436ebc0434bf4769a",
+    "title": "मिश्रव्यवहारः",
+    "order": 6,
+    "chapterId": "BV_GN_LVG_6",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a436ebc0434bf4769b",
+    "title": "क्षेत्रव्यवहारः",
+    "order": 8,
+    "chapterId": "BV_GN_LVG_8",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a436ebc0434bf4769d",
+    "title": "चितिव्यवहारः",
+    "order": 10,
+    "chapterId": "BV_GN_LVG_10",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a436ebc0434bf4769c",
+    "title": "परिभाषा",
+    "order": 1,
+    "chapterId": "BV_GN_LVG_1",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_GN_LVG/SC1_1.mp3",
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65c244a536ebc0434bf4769e",
+    "title": "खातव्यवहारः",
+    "order": 9,
+    "chapterId": "BV_GN_LVG_9",
+    "audio": null,
+    "bookId": "65c243ed27dcb595906ffcab"
+  },
+  {
+    "id": "65caa7ac665a2c82dc6451f1",
+    "title": "उदयास्ताधिकारः",
+    "order": 9,
+    "chapterId": "BV_GN_SS_9",
+    "audio": null,
+    "bookId": "65ca866017751f506e118f4b"
+  },
+  {
+    "id": "65caa7ac665a2c82dc6451f2",
+    "title": "चन्द्रग्रहणाधिकारः",
+    "order": 4,
+    "chapterId": "BV_GN_SS_4",
+    "audio": null,
+    "bookId": "65ca866017751f506e118f4b"
+  },
+  {
+    "id": "65caa7ac665a2c82dc6451f4",
+    "title": "ग्रन्थारम्भः",
+    "order": 1,
+    "chapterId": "BV_UPG_MIM_UMIM_AV_PG_SL_1",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_UPG_MIM_UMIM_AV_PG_SL/SC1_1-1_PCID_0_CID_1to20.mp3",
+    "bookId": "65ca866017751f506e118f4d"
+  },
+  {
+    "id": "65caa7ac665a2c82dc6451f6",
+    "title": "कालक्रियापादः",
+    "order": 2,
+    "chapterId": "BV_GN_ARB_2",
+    "audio": null,
+    "bookId": "65ca866017751f506e118f48"
+  },
+  {
+    "id": "65caa7ac665a2c82dc6451f5",
+    "title": "समाधिपादः",
+    "order": 1,
+    "chapterId": "BV_UPG_YOG_YS_1",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_UPG_YOG_YS/SC1_1.mp3",
+    "bookId": "65ca866117751f506e118f53"
+  },
+  {
+    "id": "65caa7ac665a2c82dc6451f7",
+    "title": "विभूतिपादः",
+    "order": 3,
+    "chapterId": "BV_UPG_YOG_YS_3",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_UPG_YOG_YS/SC1_3.mp3",
+    "bookId": "65ca866117751f506e118f53"
+  },
+  {
+    "id": "65caa7ac665a2c82dc6451fa",
+    "title": "ग्रहयुत्यधिकारः",
+    "order": 7,
+    "chapterId": "BV_GN_SS_7",
+    "audio": null,
+    "bookId": "65ca866017751f506e118f4b"
+  },
+  {
+    "id": "65caa7ac665a2c82dc6451fb",
+    "title": "कैवल्यपादः",
+    "order": 4,
+    "chapterId": "BV_UPG_YOG_YS_4",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_UPG_YOG_YS/SC1_4.mp3",
+    "bookId": "65ca866117751f506e118f53"
+  },
+  {
+    "id": "65caa7ac665a2c82dc6451fd",
+    "title": "मानाध्यायः",
+    "order": 14,
+    "chapterId": "BV_GN_SS_14",
+    "audio": null,
+    "bookId": "65ca866017751f506e118f4b"
+  },
+  {
+    "id": "65caa7ac665a2c82dc6451fe",
+    "title": "गोलपादः",
+    "order": 3,
+    "chapterId": "BV_GN_ARB_3",
+    "audio": null,
+    "bookId": "65ca866017751f506e118f48"
+  },
+  {
+    "id": "65caa7ac665a2c82dc6451ff",
+    "title": "त्रिप्रश्नाधिकारः",
+    "order": 3,
+    "chapterId": "BV_GN_SS_3",
+    "audio": null,
+    "bookId": "65ca866017751f506e118f4b"
+  },
+  {
+    "id": "65caa7ad665a2c82dc645204",
+    "title": "पूर्वमेघः",
+    "order": 1,
+    "chapterId": "BV_SH_SS_PS_MD_1",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_SH_SS_PS_MD/SC1_1.mp3",
+    "bookId": "65ca866117751f506e118f55"
+  },
+  {
+    "id": "65caa7ad665a2c82dc64520a",
+    "title": "भूगोलाध्यायः",
+    "order": 12,
+    "chapterId": "BV_GN_SS_12",
+    "audio": null,
+    "bookId": "65ca866017751f506e118f4b"
+  },
+  {
+    "id": "65caa7ad665a2c82dc64520d",
+    "title": "स्पष्टाधिकारः",
+    "order": 2,
+    "chapterId": "BV_GN_SS_2",
+    "audio": null,
+    "bookId": "65ca866017751f506e118f4b"
+  },
+  {
+    "id": "65caa7ad665a2c82dc64520c",
+    "title": "नक्षत्रग्रहयुत्यधिकारः",
+    "order": 8,
+    "chapterId": "BV_GN_SS_8",
+    "audio": null,
+    "bookId": "65ca866017751f506e118f4b"
+  },
+  {
+    "id": "65caa7ad665a2c82dc645210",
+    "title": "ग्रन्थारम्भः",
+    "order": 1,
+    "chapterId": "BV_UPG_MIM_UMIM_AV_PG_VS_1",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_UPG_MIM_UMIM_AV_PG_VS/SC1_1-1_PCID_0_CID_1to15.mp3",
+    "bookId": "65ca866017751f506e118f4a"
+  },
+  {
+    "id": "65caa7ad665a2c82dc645213",
+    "title": "साधनपादः",
+    "order": 2,
+    "chapterId": "BV_UPG_YOG_YS_2",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_UPG_YOG_YS/SC1_2.mp3",
+    "bookId": "65ca866117751f506e118f53"
+  },
+  {
+    "id": "65caa7ad665a2c82dc645217",
+    "title": "ग्रन्थारम्भः",
+    "order": 1,
+    "chapterId": "BV_UPG_MIM_UMIM_AV_PG_VC_1",
+    "audio": "https://d245epgxjv7tw3.cloudfront.net/SG/BV_UPG_MIM_UMIM_AV_PG_VC/SC1_1-1_PCID_0_CID_1to49.mp3",
+    "bookId": "65ca866117751f506e118f54"
+  }
+]

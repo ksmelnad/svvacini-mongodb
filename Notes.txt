@@ -1,0 +1,26 @@
+Verses
+Raghuvamsa
+Lilavati
+
+
+Paragraphs
+Tarkasangraha
+Dipika
+Vedantasara
+
+
+
+
+PROBLEMS
+RESOLVED: Suryasiddhanta Verses
+Yogasutra in Paragraphs not in verses
+RESOLVED: Tarkasangraha got messed up
+Ishavasya - Chapter prob
+Vishnushatpadi: not found in allBooks.json - but chapters with audio created.
+Sadhanapanchaka: not found in allBooks.json - but chapters with audio created.
+
+
+
+
+MAIN APP
+After next chapter button click, go to top

@@ -1,0 +1,125 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider     = "prisma-client-js"
+  transactions = false
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Book {
+  id     String @id @default(auto()) @map("_id") @db.ObjectId
+  bookId String @unique
+  title  String
+  author String
+
+  chapters Chapter[] @relation("chapters")
+}
+
+model Chapter {
+  id    String @id @default(auto()) @map("_id") @db.ObjectId
+  title String
+  order Int   
+  chapterId String @unique
+  audio String?
+
+  book   Book   @relation("chapters", fields: [bookId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  bookId String @db.ObjectId
+
+  sections   Section[]   @relation("sections")
+  paragraphs Paragraph[] @relation("paragraphs")
+  verses     Verse[]     @relation("verses")
+}
+
+model Section {
+  id    String @id @default(auto()) @map("_id") @db.ObjectId
+  title String
+  order Int   
+  sectionId String @unique
+
+  chapter   Chapter @relation("sections", fields: [chapterId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  chapterId String  @db.ObjectId
+
+  subsections Subsection[] @relation("subsections")
+  paragraphs  Paragraph[]  @relation("paragraphs")
+  verses      Verse[]      @relation("verses")
+}
+
+model Subsection {
+  id           String @id @default(auto()) @map("_id") @db.ObjectId
+  title        String
+  order        Int    
+  subsectionId String @unique
+
+  section   Section @relation("subsections", fields: [sectionId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  sectionId String  @db.ObjectId
+
+  paragraphs Paragraph[] @relation("paragraphs")
+  verses     Verse[]     @relation("verses")
+}
+
+model Paragraph {
+  id    String  @id @default(auto()) @map("_id") @db.ObjectId
+  title String?
+  order Int     
+  line Line
+
+  chapter   Chapter? @relation("paragraphs", fields: [chapterId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  chapterId String?  @db.ObjectId
+
+  section   Section? @relation("paragraphs", fields: [sectionId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  sectionId String?  @db.ObjectId
+
+  subsection   Subsection? @relation("paragraphs", fields: [subsectionId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  subsectionId String?     @db.ObjectId
+
+  commentaries Commentary[] @relation("paragraphCommentaries")
+}
+
+model Verse {
+  id    String @id @default(auto()) @map("_id") @db.ObjectId
+  order Int   
+  lines Line[] 
+
+  chapter Chapter? @relation("verses", fields: [chapterId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  chapterId String? @db.ObjectId
+
+  section Section? @relation("verses", fields: [sectionId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  sectionId String? @db.ObjectId
+
+  subsection Subsection? @relation("verses", fields: [subsectionId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  subsectionId String? @db.ObjectId
+
+  commentaries Commentary[] @relation("verseCommentaries")
+}
+
+model Commentary {
+  id String @id @default(auto()) @map("_id") @db.ObjectId
+  lines Line[]
+  audio Audio[] @relation("audios")
+
+  paragraph Paragraph? @relation("paragraphCommentaries", fields: [paragraphId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  paragraphId String? @db.ObjectId
+
+  verse Verse? @relation("verseCommentaries", fields: [verseId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  verseId String? @db.ObjectId
+}
+
+model Audio {
+  id String @id @default(auto()) @map("_id") @db.ObjectId
+  audioUrl String
+  author String?
+
+  commentary Commentary? @relation("audios", fields: [commentaryId], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  commentaryId String @db.ObjectId
+}
+
+type Line {
+  begin String
+  end   String
+  text  String
+}

@@ -1,0 +1,97 @@
+[
+  {
+    "book": "ब्रह्मसूत्राणि",
+    "book_id": "BV_UPG_MIM_UMIM_AV_MG_BMS",
+    "author": "वेदव्यासः"
+  },
+  {
+    "book": "शारीरकभाष्यम्",
+    "book_id": "BV_UPG_MIM_UMIM_AV_MG_BMS_SB",
+    "author": "आदिशङ्कराचार्यः"
+  },
+  {
+    "book": "पञ्चपादिका",
+    "book_id": "BV_UPG_MIM_UMIM_AV_MG_BMS_SB_PCP",
+    "author": "पद्मपादः"
+  },
+  {
+    "book": "वक्तव्यकाशिका",
+    "book_id": "BV_UPG_MIM_UMIM_AV_MG_BMS_SB_PCP_VVS",
+    "author": "उत्तमज्ञयतिः"
+  },
+  {
+    "book": "दीपिका",
+    "book_id": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_TKSD",
+    "author": "अन्नम्भट्टः"
+  },
+  {
+    "book": "तर्कसङ्ग्रहः",
+    "book_id": "BV_UPG_NY_NYS_NVNYYK_PG_TKS",
+    "author": "अन्नम्भट्टः"
+  },
+  {
+    "book": "शतश्लोकी",
+    "book_id": "BV_UPG_MIM_UMIM_AV_PG_SL",
+    "author": "आदिशङ्कराचार्यः"
+  },
+  {
+    "book": "विवेकचूडामणिः",
+    "book_id": "BV_UPG_MIM_UMIM_AV_PG_VC",
+    "author": "आदिशङ्कराचार्यः"
+  },
+  {
+    "book": "वेदान्तसारः",
+    "book_id": "BV_UPG_MIM_UMIM_AV_PG_VS",
+    "author": "सदानन्दः"
+  },
+  {
+    "book": "रघुवंशम्",
+    "book_id": "BV_SH_SS_PS_RV",
+    "author": "कालिदासः"
+  },
+  {
+    "book": "आर्यभटीयम्",
+    "book_id": "BV_GN_ARB",
+    "author": "आर्यभटः"
+  },
+  {
+    "book": "लीलावतीगणितम्",
+    "book_id": "BV_GN_LVG",
+    "author": "भास्कराचार्यः"
+  },
+  {
+    "book": "सूर्यसिद्धान्तः",
+    "book_id": "BV_GN_SS",
+    "author": " "
+  },
+  {
+    "book": "खण्डखाद्यकम्",
+    "book_id": "BV_GN_KKY",
+    "author": "ब्रह्मगुप्तः"
+  },
+  {
+    "book": "योगसूत्रम्",
+    "book_id": "BV_UPG_YOG_YS",
+    "author": "पतञ्जलिः"
+  },
+  {
+    "book": "मेघदूतम्",
+    "book_id": "BV_SH_SS_PS_MD",
+    "author": "कालिदासः"
+  },
+  {
+    "book": "ईशावास्योपनिषद्",
+    "book_id": "BV_UPG_MIM_UMIM_AV_MG_UPS_ISV",
+    "author": "-"
+  },
+  {
+    "book": "श्रीविष्णुषट्पदी",
+    "book_id": "BV_UPG_MIM_UMIM_AV_IG_SVS",
+    "author": "आदिशङ्कराचार्यः"
+  },
+  {
+    "book": "साधनापञ्चकम्",
+    "book_id": "BV_UPG_MIM_UMIM_AV_IG_SP",
+    "author": "आदिशङ्कराचार्यः"
+  }
+]
